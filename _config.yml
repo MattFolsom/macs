@@ -1,0 +1,8 @@
+title: Macs
+description: Maker Space Access Controll system
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
